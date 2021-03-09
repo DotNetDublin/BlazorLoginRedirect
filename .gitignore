@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BlazorLoginRedirect/BlazorLoginRedirect.Web/obj
+/BlazorLoginRedirect/BlazorLoginRedirect.Web/bin/Debug/net5.0
+/BlazorLoginRedirect/BlazorLoginRedirect.Web/Properties
+/BlazorLoginRedirect/.vs/BlazorLoginRedirect
